@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# API cache
+raw_cache/
+
+# Raw datasets
+API_*.csv
+Metadata_*.csv
+WB_WDI_*.csv
+owid-*.csv
+
+# Keep analysis output CSVs
+!income_group_correlations.csv
+!income_group_correlation_table.csv
+!within_country_correlations.csv
+!country_correlation_table.csv
