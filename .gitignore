@@ -17,8 +17,14 @@ Metadata_*.csv
 WB_WDI_*.csv
 owid-*.csv
 
-# Keep analysis output CSVs
+# Keep analysis output CSVs and raw data CSVs
 !income_group_correlations.csv
 !income_group_correlation_table.csv
 !within_country_correlations.csv
 !country_correlation_table.csv
+
+!API_EN.GHG.CO2.MT.CE.AR5_DS2_en_csv_v2_34526.csv
+!API_NY.GDP.PCAP.CD_DS2_en_csv_v2_33610.csv
+!API_SP.POP.TOTL_DS2_en_csv_v2_33112.csv
+!Metadata_Country_API_EN.GHG.CO2.MT.CE.AR5_DS2_en_csv_v2_34526.csv
+!WB_WDI_EN_ATM_PM25_MC_M3.csv
