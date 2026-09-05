@@ -1,0 +1,5 @@
+Outcome,Method,Slope,Correlation,P_value,N_obs,N_countries,Note
+malaria,within-country panel (fixed-effects),-3.7320333919148303,-0.46339840839162266,8.741626096466963e-139,2604.0,105.0,
+cholera,within-country panel (fixed-effects),,,,,,"Skipped — only 2011-2016 data, insufficient years for panel analysis"
+air_pollution,within-country panel (fixed-effects),0.013500836955598764,0.01656802892993216,0.1917767048430364,6209.0,184.0,
+life_expectancy,within-country panel (fixed-effects),3.556752818986259,0.1770351514273613,3.812448673010749e-29,3946.0,180.0,
