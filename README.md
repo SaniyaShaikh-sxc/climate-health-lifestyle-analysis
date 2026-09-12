@@ -1,10 +1,10 @@
 # Climate, Wealth & Health: A Cross-National Analysis
 
-A data science project investigating whether a country's CO2 emissions are associated with its public health outcomes — and, critically, whether that relationship survives once population size and national wealth are properly accounted for.
+A data science project investigating whether a country's CO2 emissions are associated with its public health outcomes, and, critically, whether that relationship survives once population size and national wealth are properly accounted for.
 
 ## Key finding
 
-The health outcome with the least obvious physical connection to CO2 emissions — malaria — showed the strongest, most consistent relationship in the entire analysis, surviving every statistical test we applied. The outcome with the most obvious physical connection — air pollution, since burning fossil fuels produces both CO2 and particulate matter — showed the weakest and least consistent relationship, even reversing direction depending on income group. This suggests the climate-health relationship runs primarily through broader development pathways (infrastructure, healthcare access, vector control) rather than direct physical exposure.
+The health outcome with the least obvious physical connection to CO2 emissions, malaria, showed the strongest, most consistent relationship in the entire analysis, surviving every statistical test we applied. The outcome with the most obvious physical connection, air pollution, since burning fossil fuels produces both CO2 and particulate matter, showed the weakest and least consistent relationship, even reversing direction depending on income group. This suggests the climate-health relationship runs primarily through broader development pathways (infrastructure, healthcare access, vector control) rather than direct physical exposure.
 
 ## Project structure
 
