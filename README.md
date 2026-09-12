@@ -12,7 +12,7 @@ The health outcome with the least obvious physical connection to CO2 emissions �
 ├── data/
 │   ├── raw/            # Original downloaded CSVs (WHO, World Bank, PM2.5, country metadata)
 │   └── processed/      # Merged/cleaned datasets and verified statistical result exports
-├── notebooks/
+├── notebook/
 │   └── final_loaded_datasets.ipynb  # Full analysis: data merging, cleaning, statistics, visualization
 ├── figures/            # Final chart images used in the write-up and presentation
 ├── src/                # Reusable analysis/visualization scripts
